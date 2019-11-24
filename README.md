@@ -1,5 +1,14 @@
-# Avon
-Dalhousie_Shift_Key_Hackathon2019
-
-
-Git history found at: https://github.com/mack/shiftkey-hackathon-2019
+# DalhousieHackathon2019
+TBD
+## Brainstorming
+TBD
+## Getting Ready
+TBD
+## Building
+TBD
+## Issues
+TBD
+## The Outcome
+TBD
+## Future
+TBD
