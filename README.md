@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.vexels.com/media/users/3/145866/isolated/preview/b4efb6c6682b2a808631bf8fbd96d015-sound-wave-icon-by-vexels.png">
+  <img src="https://images.vexels.com/media/users/3/145866/isolated/preview/b4efb6c6682b2a808631bf8fbd96d015-sound-wave-icon-by-vexels.png" width="220" height="220">
 </p>
 
 
@@ -22,18 +22,18 @@ The first page takes in voice input and recognizes commands via speech to text, 
 
 
 ## Development
-TBD
+[Mackenzie Boudreau](https://github.com/mackboudreau) and [Myself](https://github.com/sterrio) worked together to develop the iOS application.
 
+Development history can be found [here](https://github.com/mackboudreau)
 
 ## Issues
-TBD
+tbd
 
 ## Result
-Gif here
 
  <p align="center">
     <img src="https://imgur.com/yqGMjHP.gif"/>
 
 
 ## Future Plans
-TBD
+Figuring out integration of the passive commands would be plans for the near future, continuing into the far future development would be focused on getting integration and support for custom commands to be fully functional. 
