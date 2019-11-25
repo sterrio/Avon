@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.pngall.com/wp-content/uploads/2/Sound-Waves-PNG.png">
+  <img src="https://images.vexels.com/media/users/3/145866/isolated/preview/b4efb6c6682b2a808631bf8fbd96d015-sound-wave-icon-by-vexels.png">
 </p>
 
 
@@ -13,6 +13,12 @@ become available at our fingertips. Apps like Snapchat, Discord, and Slack have 
 Drivers stubbornly continue to use their phones despite the increase in risk to cause an accident. Avon seeks to eliminate this increased risk caused by the use of third party apps by adding voice integrations & passive commands such as alerts when a speeding threshold is breached when driving in certain areas. 
 
 ## Starting Up
+After discussing what our solution to the issue would be, we started brainstorming features and how we'd implement those ideas into the application. To avoid confusion during developpement - we came up with a wireframe to follow as time went on.
+
+ <p align="center">
+    <img src="https://imgur.com/qVk7Uhj.png"/>
+  
+The first page takes in voice input and recognizes commands via speech to text, while animating based on the decibal level of the input. While the Commands page lets you enable/disable commands as you see fit. The extensions page allows you to search for new extensions that were released and created by other users of the app, allowing for an infinite amount of possiblity. 
 
 
 ## Development
@@ -24,6 +30,9 @@ TBD
 
 ## Result
 Gif here
+
+ <p align="center">
+    <img src="https://imgur.com/yqGMjHP.gif"/>
 
 
 ## Future Plans
