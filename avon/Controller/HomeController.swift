@@ -164,12 +164,14 @@ class HomeController: UIViewController {
                     var splits = self.activeCommand!.split(separator: " ")
                     splits.removeFirst(2)
                     let message = splits.joined(separator: " ")
-
-                    let accountSID = "AC0e6d382e50f439bda06432380ca4a933"
-                     let authToken = "9b79b21d04f0c145aeb6d5d4a30a032c"
+                    
+                    // removed twilio confidentials, integration for this command will work once removed
+                    let accountSID = "00000"
+                     let authToken = "00000"
 
                        let url = "https://api.twilio.com/2010-04-01/Accounts/\(accountSID)/Messages"
-                       let parameters = ["From": "19028003422", "To": "19028772889", "Body": message]
+                    // from sender, to receiver
+                       let parameters = ["From": "19020000000", "To": "19020000000", "Body": message]
                          AF.request(url, method: .post, parameters: parameters).authenticate(username: accountSID, password: authToken)
                          .responseJSON { response in
                             self.say("Your text message has been sent")
