@@ -22,7 +22,7 @@ The first page takes in voice input and recognizes commands via speech to text, 
 
 
 ## Development
-[Mackenzie Boudreau](https://github.com/mackboudreau) and [Myself](https://github.com/sterrio) worked together to develop the iOS application.
+[Mackenzie Boudreau](https://github.com/mack) and [Myself](https://github.com/sterrio) worked together to develop the iOS application.
 
 Development history can be found [here](https://github.com/mackboudreau)
 
