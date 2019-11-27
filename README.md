@@ -27,7 +27,9 @@ The first page takes in voice input and recognizes commands via speech to text, 
 Development history can be found [here](https://github.com/mackboudreau)
 
 ## Issues
-tbd
+We faced various issues throughout the implementation of our ideas to our app. for the first 24 hours, the challenge was to decide whether or not we wanted to develop the app on iOS or Android. As Android offers more in terms of freedom to control the phone, however it did not have the polish we wanted that iOS could give. 
+
+We also wanted to make sure that we could deliver a completely hands free functional assistant, and while we had a way to do so on iOS, we weren't sure if that would be a possibiblity on Android, as it needs some form of user touch before it can take in a speech to text input. 
 
 ## Result
 
