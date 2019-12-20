@@ -38,4 +38,4 @@ We also wanted to make sure that we could deliver a completely hands free functi
 
 
 ## Future Plans
-Figuring out integration of the passive commands would be plans for the near future, continuing into the far future development would be focused on getting integration and support for custom commands to be fully functional. 
+Figuring out integration of the passive commands would be plans for the near future, continuing into the far future development would be focused on getting integration and support for custom commands to be fully functional. Also, we had an odd error getting the application to run on actual phones rather than just the XCode simulated phones. Looking into this major issue would be the next task we take on. 
