@@ -13,7 +13,7 @@ become available at our fingertips. Apps like Snapchat, Discord, and Slack have 
 Drivers stubbornly continue to use their phones despite the increase in risk to cause an accident. Avon seeks to eliminate this increased risk caused by the use of third party apps by adding voice integrations & passive commands such as alerts when a speeding threshold is breached when driving in certain areas. 
 
 ## Starting Up
-After discussing what our solution to the issue would be, we started brainstorming features and how we'd implement those ideas into the application. To avoid confusion during developpement - we came up with a wireframe to follow as time went on.
+After discussing what our solution to the issue would be, we started brainstorming features and how we'd implement those ideas into the application. To avoid confusion during development - we came up with a wireframe to follow as time went on.
 
  <p align="center">
     <img src="https://imgur.com/qVk7Uhj.png"/>
